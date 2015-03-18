@@ -1,0 +1,9 @@
+<dataset>
+    <Dept id="100" name="Sales"/>
+    <Dept id="200" name="Finance"/>
+    <Employee id="1000" name="Scott"  dept_id="100"/>
+    <Employee id="1001" name="Martin" dept_id="100"/>
+    <Employee id="1002" name="Nick"   dept_id="100"/>
+    <Employee id="2000" name="Jordan" dept_id="200"/>
+    <Employee id="2001" name="David"  dept_id="200"/>
+</dataset>
